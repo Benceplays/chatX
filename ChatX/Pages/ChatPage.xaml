@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ChatX.Pages.ChatPage"
+             Title="ChatPage">
+    <VerticalStackLayout VerticalOptions="End">
+            <Entry
+                BackgroundColor="#333"
+                Margin="10, 0, 0, 10"
+                WidthRequest="250"
+                HorizontalOptions="FillAndExpand"
+            />
+            <Button
+                Text = "→"
+                FontSize="40"
+                Padding="0, -10, 0, -10"
+                WidthRequest="50"
+                Margin="0, 0, 0, 10"
+                BackgroundColor="#333"
+                HorizontalOptions="EndAndExpand"
+            />
+    </VerticalStackLayout>
+</ContentPage>

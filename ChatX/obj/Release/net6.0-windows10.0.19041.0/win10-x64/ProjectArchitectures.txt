@@ -1,0 +1,1 @@
+C:\Users\Bence\Desktop\ChatX\ChatX\ChatX.csproj;x64

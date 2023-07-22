@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ChatX.HostPage">
+    <VerticalStackLayout>
+        <Label 
+            Text="Host to lobby"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            FontSize="25"/>
+        <Label
+            Text="Name"
+            HorizontalOptions="Center"
+            Margin="0, 100, 0, 5"
+            />
+        <Entry
+            HorizontalTextAlignment="Center"
+            x:Name="nameInput"
+            MaxLength="32"
+            MinimumWidthRequest="300"
+            BackgroundColor="#333"
+            HorizontalOptions="Center"
+            Margin="0, 0, 0, 50"
+            />
+        <Button
+            Text="Host"
+            HorizontalOptions="Center"
+            Clicked="HostClick"
+            />
+    </VerticalStackLayout>
+</ContentPage>

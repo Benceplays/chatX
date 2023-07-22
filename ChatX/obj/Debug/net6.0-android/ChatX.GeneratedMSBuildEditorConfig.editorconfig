@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ChatX
+build_property.ProjectDir = C:\Users\Bence\Documents\GitHub\chatX\ChatX\
+
+[C:/Users/Bence/Documents/GitHub/chatX/ChatX/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatX.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Bence/Documents/GitHub/chatX/ChatX/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatX.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Bence/Documents/GitHub/chatX/ChatX/Pages/ChatPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatX.Pages.ChatPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ChatPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ChatPage.xaml
+
+[C:/Users/Bence/Documents/GitHub/chatX/ChatX/Pages/HostPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatX.Pages.HostPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HostPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HostPage.xaml
+
+[C:/Users/Bence/Documents/GitHub/chatX/ChatX/Pages/JoinPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatX.Pages.JoinPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\JoinPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\JoinPage.xaml
+
+[C:/Users/Bence/Documents/GitHub/chatX/ChatX/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatX.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/Bence/Documents/GitHub/chatX/ChatX/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatX.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Bence/Documents/GitHub/chatX/ChatX/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatX.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

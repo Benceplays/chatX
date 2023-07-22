@@ -1,0 +1,3 @@
+C:\Users\Bence\Desktop\ChatX\ChatX\bin\Release\net6.0-android\publish\com.companyname.chatx-Signed.aab
+C:\Users\Bence\Desktop\ChatX\ChatX\bin\Release\net6.0-android\publish\com.companyname.chatx.aab
+C:\Users\Bence\Desktop\ChatX\ChatX\bin\Release\net6.0-android\publish\com.companyname.chatx-Signed.apk
