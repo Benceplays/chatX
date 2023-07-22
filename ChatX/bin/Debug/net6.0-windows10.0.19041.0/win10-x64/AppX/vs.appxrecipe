@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Bence\Documents\GitHub\chatX\ChatX\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-07-22T21:14:12.826</Modified>
+      <Modified>2023-07-22T21:55:59.245</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Bence\Documents\GitHub\chatX\ChatX\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-07-22T20:44:39.438</Modified>
+      <Modified>2023-07-22T21:53:27.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bence\Documents\GitHub\chatX\ChatX\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ChatX.runtimeconfig.json">
       <PackagePath>ChatX.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bence\Documents\GitHub\chatX\ChatX\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ChatX.dll">
       <PackagePath>ChatX.dll</PackagePath>
-      <Modified>2023-07-22T21:14:11.294</Modified>
+      <Modified>2023-07-22T21:55:57.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bence\Documents\GitHub\chatX\ChatX\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ChatX.exe</PackagePath>
-      <Modified>2023-07-22T21:14:11.302</Modified>
+      <Modified>2023-07-22T21:55:57.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bence\Documents\GitHub\chatX\ChatX\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ChatX.deps.json">
       <PackagePath>ChatX.deps.json</PackagePath>

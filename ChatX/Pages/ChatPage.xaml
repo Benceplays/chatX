@@ -3,15 +3,23 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ChatX.Pages.ChatPage"
              Title="ChatPage">
-    <VerticalStackLayout VerticalOptions="End">
+    <StackLayout>
+        <Label
+            Text="Code: "
+            x:Name="codeLabel"
+            TextColor="#fff"
+            />
+        <VerticalStackLayout VerticalOptions="End">
             <Entry
                 BackgroundColor="#333"
                 Margin="10, 0, 0, 10"
                 WidthRequest="250"
                 HorizontalOptions="FillAndExpand"
+                x:Name="messagetext"
             />
             <Button
                 Text = "→"
+                Clicked="sendButton"
                 FontSize="40"
                 Padding="0, -10, 0, -10"
                 WidthRequest="50"
@@ -19,5 +27,6 @@
                 BackgroundColor="#333"
                 HorizontalOptions="EndAndExpand"
             />
-    </VerticalStackLayout>
+        </VerticalStackLayout>
+    </StackLayout>
 </ContentPage>
