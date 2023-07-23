@@ -10,6 +10,6 @@ public partial class HostPage : ContentPage
 	}
 	public async void HostClick(object sender, EventArgs e)
 	{
-		await Navigation.PushAsync(new ChatPage());
+		await Navigation.PushAsync(new ChatPageServer());
     }
 }

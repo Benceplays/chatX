@@ -36,6 +36,7 @@
         <Button
             Text="Join"
             HorizontalOptions="Center"
+            Clicked="JoinButton"
             />
     </VerticalStackLayout>
 </ContentPage>

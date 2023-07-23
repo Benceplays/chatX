@@ -22,11 +22,17 @@ build_metadata.AdditionalFiles.ManifestResourceName = ChatX.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Bence/Documents/GitHub/chatX/ChatX/Pages/ChatPage.xaml]
+[C:/Users/Bence/Documents/GitHub/chatX/ChatX/Pages/ChatPageClient.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = ChatX.Pages.ChatPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\ChatPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\ChatPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatX.Pages.ChatPageClient.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ChatPageClient.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ChatPageClient.xaml
+
+[C:/Users/Bence/Documents/GitHub/chatX/ChatX/Pages/ChatPageServer.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChatX.Pages.ChatPageServer.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ChatPageServer.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ChatPageServer.xaml
 
 [C:/Users/Bence/Documents/GitHub/chatX/ChatX/Pages/HostPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
